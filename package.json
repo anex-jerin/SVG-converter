@@ -1,0 +1,15 @@
+{
+  "name": "icon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fantasticon": "fantasticon my-icons -o icon-dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fantasticon": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
